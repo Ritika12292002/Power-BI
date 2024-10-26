@@ -84,6 +84,27 @@ Maps: Geographic distribution of sales.
 Snapshots of dasboards (power bi service)
 ![image_2024-10-26_150916892](https://github.com/user-attachments/assets/6c7b5d61-68fe-4d90-9bd2-ed4a3b515425)
 
+![112](https://github.com/user-attachments/assets/f39f6a59-c14c-45d4-b3ab-4f60b3422617)
+
+
+![113](https://github.com/user-attachments/assets/7f942898-b328-4a82-b127-edcfc17cf2e3)
+
+
+![117](https://github.com/user-attachments/assets/6e87da81-e2d6-4877-a036-9076cba534b2)
+
+![114](https://github.com/user-attachments/assets/bf8e86bc-4a47-426f-ae47-6c02fbbd6f48)
+
+
+
+
+![115](https://github.com/user-attachments/assets/7c0b8bb2-08b5-4bc8-9bf4-3b3a073f7960)
+
+
+![116](https://github.com/user-attachments/assets/88f366d5-5780-4f4a-9c67-4a852cc76ad8)
+
+
+
+
 How to Use
 Filter by Region: Use the slicers to focus on specific regions.
 Explore Time Series: Adjust date filters to view data for specific timeframes.
